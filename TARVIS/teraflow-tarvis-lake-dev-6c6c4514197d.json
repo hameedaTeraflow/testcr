@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "teraflow-tarvis-lake-dev",
+  "private_key_id": "6c6c4514197d601877534e5169e8b6b56c5923fb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvFrZdSpjWM0Op\nzgsDfPJJPzNZaxHKAo07iMude0nOwAs6cEAKWiM59nD+ohC7PlFdsjNKPEFeCu11\nHUocxmmxQi2A+B+dWl5dKZmiem6AhxpdjWEESkeCSHVQANCJFcoxracvFdYKVa6+\nAp3cNdOYwEzSW/LI/Dg5qbfnrTUXjzjBDt1fdxbyZKPY2p+jfhmrqJgz7lSI2cfS\nJWFa5UCA+qMM28lrtGVnHmruDVe/mrvRCr246cqyJQDoMupK03+1EX9mrfmQMZGw\nsXFaiztZTufmKQK/Ry+WhvJJJMhLaAk2Gyw/TlcRCn3SwYxTST8ugflirgIAaYfv\nHthRkgrPAgMBAAECggEADq1xPf9xMercCu6P9svKuQAyBLA++zfDV8PMCeVNcFlu\n0SHOBIm+dtWL1S5VB7u3V3FT7y7lurjHMJbZer4/tJF1iuCB/Sj+GYI38/c4FZ2X\nXlNQcdGGQbIwTDO24SvXjNpfvJWjuuJCHIFpcvRIl8wH3jSODqVlUzqNuHKvk8wu\nn6OtLZHxaJG0bA/14sixHSyKmjFffNk7F7RoUMcCRjv3WF9oUuY68drOahxxqi6d\nk+6DRxnzq2AjOPo8tRJ0gdK/Yx0z/A2LjNjlVEj0NDkjXbWlahkt4RU8g+Fy6G+d\njeqzLweJQv4V4FR2X1cmPCIEjDtOCjNfG5AVlT1ZhQKBgQDrVOIV9aQ/vPtGgOhl\n6Y6Qt2Ha83foZ2lqWiK2X4dOpppqPQ9COP4vRWuZ18G+Tec2apUKbAAvc+hQXh+w\n/R9K6Z68eKjexq5402AGforuYLRAOw3YQfZzxIHu80b0/sHzeW4mXVljNkiYKZh1\nWQTBRU1FcASSHwUCSkaBwWiqzQKBgQC+d1lSAn0iszkldNsaDCl6hlBW4YbYGF2Y\nB8kvSl8L8zg1vTkNkecMQDZsJvg+LrRufapjKEkqHjOCk0LiVF1KIL3mGmKx7oJD\nTQciJAqHfSXQKeo85K/OjeANYYbbZhEAouaE57JaCAidR95ZDCx+1s1dh/0/etAt\n/24mhAWECwKBgHJXrP5keyjpBuJL0h9qavXP1IERGSrXzDV7lDAunEzP0GlcP6S6\nkm6feVenqKBxs60R/laxASoNVExwX0+cvW6lspX6vnp36OAWPCsLoy+N1yb6SpDQ\nBBJd4ZAbrldtzQki8C094Ce/gWhFlak21oOdy5y4f9ALuGBTfIyhT9zlAoGALmIy\nRl6EyuaKjCyhDv7XOxdqiT3y8L0+Tb/XpsSd0PMyRSQHuN5HPhyFJGF5IuuM1TuV\nOwCckL06Hhput1+EOIEwvdC/KEXFQ06G5jGQvt4jT0Zl3N50UgELBzcw+E0q5tTE\n/qjOLk62ilbuNxFX5Ku654QukD8AY7NIx+huz3ECgYEAzYfPt8XXxvXHN0Cm/GuY\nbhKMcV+rH9T+1Da0kn9c4l9OjKwdAR5nPK8ja/z+4Gpwl6/K9SHMzJq/Y5yZwukS\n9Ic5yHodAp6y5K/YnoJVmfDZgOfqhlXEdc0POAlQwn2DvFjU7j1RZvVQPHtkSB3a\n9f6UydKnDDh8hRyBrmfK0t0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloudstorage@teraflow-tarvis-lake-dev.iam.gserviceaccount.com",
+  "client_id": "101966670793012374709",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudstorage%40teraflow-tarvis-lake-dev.iam.gserviceaccount.com"
+}
