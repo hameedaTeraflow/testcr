@@ -1,13 +1,13 @@
 steps:
 # Build the container image
 - name: 'gcr.io/cloud-builders/docker'
-  args: ['build', '-t', 'gcr.io/teraflow-tarvis-lake-dev/docker', '.']
+  args: ['build', '-t', 'gcr.io/teraflow-tarvis-lake-dev/docker2', '.']
 # Push the container image to Container Registry
 - name: 'gcr.io/cloud-builders/docker'
-  args: ['push', 'gcr.io/teraflow-tarvis-lake-dev/docker']
+  args: ['push', 'gcr.io/teraflow-tarvis-lake-dev/docker2']
 # Deploy container image to Cloud Run
 - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
   entrypoint: gcloud
-  args: ['run', 'deploy', 'tarvis', '--image', 'gcr.io/teraflow-tarvis-lake-dev/docker', '--region', 'europe-west2']
+  args: ['run', 'deploy', 'testcr', '--image', 'gcr.io/teraflow-tarvis-lake-dev/docker2', '--region', 'europe-west2']
 images:
-- gcr.io/teraflow-tarvis-lake-dev/docker
+- gcr.io/teraflow-tarvis-lake-dev/docker2
