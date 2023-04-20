@@ -15,6 +15,7 @@ dir(storage_client)
 bucket_name = 'timeadmin_data_bucket'
 bucket = storage_client.bucket(bucket_name)
 bucket.location = 'US'
+#bucket = storage_client.create_bucket(bucket)
 
 apiKey = "eyJhbGciOiJIUzI1NiJ9.eyJ0aWQiOjI1MDM1MjYxOSwidWlkIjoyNjgwNjY3OCwiaWFkIjoiMjAyMy0wNC0xMlQxNDo0NjowOS4wNDVaIiwicGVyIjoibWU6d3JpdGUiLCJhY3RpZCI6NDUyMDU1OSwicmduIjoidXNlMSJ9.ddVaxj8XcxuXK7ZQIQi438aX-8k5HZn36ymgz9GS-Jc"
 apiUrl = "https://api.monday.com/v2"
