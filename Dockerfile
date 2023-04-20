@@ -9,4 +9,4 @@ COPY . .main
 
 ENV FLASK_APP=main.py
 
-CMD [ "python", "-m" , "flask", "run", "--host=0.0.0.0"]
+CMD exec gunicorn --bind :$PORT --workers 1 --threads 8 --timeout 0 main:app
